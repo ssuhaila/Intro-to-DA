@@ -1,0 +1,3 @@
+All codes were written on Python 2.7
+Conda-env: DAND
+Jupyter Notebook viewable on Mozilla Firefox ver 52.2.1 (32bit)
